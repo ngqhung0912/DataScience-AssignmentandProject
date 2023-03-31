@@ -2,4 +2,6 @@
 .idea
 /GIS/Datasets
 /CV/cifar10
+.ipynb_checkpoints
+CV.zip
 
